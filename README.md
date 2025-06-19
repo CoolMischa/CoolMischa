@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT Architecture, Augmeted Intelligence (AI) and SOftware Developement.
 - 🌱 I’m currently learning ML, Python, RedHat OPenSHift and Vue.js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Best via e-mail or on Twitter @CoolMischa
+- 📫 How to reach me: Best via e-mail
 - 💃🏼 My hobbies are ballroomd dancing, skiing, bikeing and a few other kind of sports.
 
 <!---
